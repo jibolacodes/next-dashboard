@@ -1,3 +1,3 @@
 export default function Page () {
-    return <p>Customers Page update</p>
+    return <p>Customers Page updates</p>
 }
